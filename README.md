@@ -17,7 +17,7 @@ Bu 8-dars uchun namuna tarzda yaratilgan repozitoriya
   <a href="https://facebook.com/shohabbosdev">
     <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue" alt="Bu facebook badges">
   </a>
-  <a href="https://twitter.com/shohabbosdev">
-    <img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white" alt="Bu twitter badges"/>
+  <a href="https://x.com/shohabbosdev">
+    <img src="https://img.shields.io/badge/x-blue?logo=x&logoColor=white" alt="Bu twitter badges"/>
   </a>
 </div>
